@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+  font-family: "Arial";
+  display: grid;
+  gap: 2rem;
+  padding: 1.5rem;
+  margin: auto;
+}
+
+label,
+button {
+  font-size: 1.2rem;
+  color: #fff;
+  padding: 0.5em 0.9em;
+  cursor: pointer;
+  border: none;
+}
+[type="file"] {
+  display: none;
+}
+[class*="btn"] {
+  border-radius: 5px;
+  text-transform: capitalize;
+}
+
+.btn-grey {
+  background-color: #f2f2f2;
+  color: #333;
+  border: 1px solid #888;
+  width: 150px; /* Đặt width cố định là 150px */
+  display: flex;
+  justify-content: center;
+  margin: 0 auto; /* Đặt lề tự động để căn giữa nút */
+}
+
+.btn-green {
+  background-color: #63dd47;
+  width: 250px; /* Đặt width cố định là 150px */
+  display: flex;
+  justify-content: center;
+  margin: 0 auto; /* Đặt lề tự động để căn giữa nút */
+}
+
+p {
+  display: block;
+  width: 60%;
+  font-family: monospace;
+  font-size: 1.2rem;
+  /* background-color: #000; */
+  color: #f00;
+  margin: auto;
+  text-overflow: ellipsis;
+}
+
+#title{
+  color: black;
+  background-color: transparent;
+  font-size: bold;
+  font-size: 30px;
+}
+
+code {
+  display: grid;
+  gap: 4px;
+  padding: 1rem;
+  /* background-color: #000; */
+  margin: 0 auto;
+}
+
+.output-item {
+  display: flex;
+  gap: 0.4rem;
+  font-family: monospace;
+  font-size: 14px;
+  color: black;
+}
+.output-item > *:first-child {
+  font-weight: 800;
+  color: #6aab17;
+}
