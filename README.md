@@ -6,4 +6,9 @@
     <h1>First - Upload Image Cloudinary - ReactJS</h1>
 </div>
 
+- ReactJS
+- NodeJS
+- ExpressJS
+- Cloudinary (Tương tự `Firebase` nhưng dùng để lưu ảnh)
+
 ## Run
