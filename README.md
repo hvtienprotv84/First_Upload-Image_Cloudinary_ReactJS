@@ -12,3 +12,11 @@
 - Cloudinary (Tương tự `Firebase` nhưng dùng để lưu ảnh)
 
 ## Run
+### **Frontend**
+- `cd frontend`
+- `npm install`
+- `npm start`
+
+### **Backend**
+- `npm install`
+- `npm run backend`
