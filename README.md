@@ -11,6 +11,15 @@
 - ExpressJS
 - Cloudinary (Tương tự `Firebase` nhưng dùng để lưu ảnh)
 
+## **Lưu Ý - Hướng Dẫn**
+- Thay đổi trong file `.env` để phù hợp với mọi người
+
+```sh
+CLOUD_NAME=
+API_KEY=
+API_SECRET=
+```
+
 ## Run
 ### **Frontend**
 - `cd frontend`
