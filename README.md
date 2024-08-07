@@ -12,9 +12,9 @@
 - Cloudinary (Tương tự `Firebase` nhưng dùng để lưu ảnh)
 
 ## **Lưu Ý - Hướng Dẫn**
-- (Đăng nhập Cloudinary)[https://cloudinary.com/users/login]
-- (Lấy API Key `Cloudinary`)[https://console.cloudinary.com/settings/c-8085b87b513dd727a00358999444d8/api-keys]
-- (Cách này dùng để xem ảnh đã được upload lên `Cloudinary`)[https://media-library-widget-demo.cloudinary.com/demo]
+- [Đăng nhập Cloudinary](https://cloudinary.com/users/login)
+- [Lấy API Key `Cloudinary`](https://console.cloudinary.com/settings/c-8085b87b513dd727a00358999444d8/api-keys)
+- [Cách này dùng để xem ảnh đã được upload lên `Cloudinary`](https://media-library-widget-demo.cloudinary.com/demo)
 - Thay đổi trong file `.env` để phù hợp với mọi người
 
 ```sh
